@@ -99,7 +99,8 @@
             "q": "*"
         },
         "onlyBuiltDependencies": [
-            "esbuild"
+            "esbuild",
+            "usocket"
         ]
     },
     "engines": {
